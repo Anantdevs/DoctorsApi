@@ -1,0 +1,23 @@
+[
+  {
+    "name": "John Doe",
+    "age": 30,
+    "gender": "Male",
+    "email": "john.doe@example.com",
+    "password": "password123"
+  },
+  {
+    "name": "Jane Smith",
+    "age": 25,
+    "gender": "Female",
+    "email": "jane.smith@example.com",
+    "password": "password456"
+  },
+  {
+    "name": "Alice Johnson",
+    "age": 35,
+    "gender": "Female",
+    "email": "alice.johnson@example.com",
+    "password": "password789"
+  }
+]

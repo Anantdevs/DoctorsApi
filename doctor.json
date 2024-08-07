@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Dr. Emily Johnson",
+    "description": "Experienced pediatrician specializing in early childhood development.",
+    "experience": 12,
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "clinicName": "Bright Futures Pediatrics"
+  },
+  {
+    "name": "Dr. Michael Smith",
+    "description": "Renowned cardiologist with expertise in cardiovascular health.",
+    "experience": 15,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "clinicName": "HeartCare Clinic"
+  },
+  {
+    "name": "Dr. Ava Martinez",
+    "description": "Skilled dermatologist focusing on skin care and cosmetic dermatology.",
+    "experience": 10,
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "clinicName": "Skin Solutions"
+  },
+  {
+    "name": "Dr. William Davis",
+    "description": "Experienced orthopedic surgeon specializing in joint replacements and sports injuries.",
+    "experience": 20,
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "clinicName": "Orthopedic Excellence"
+  },
+  {
+    "name": "Dr. Sophia Wilson",
+    "description": "General physician with a focus on preventive care and holistic health.",
+    "experience": 8,
+    "latitude": 39.9042,
+    "longitude": 116.4074,
+    "clinicName": "Wellness Health Center"
+  },
+  {
+    "name": "Dr. James Brown",
+    "description": "Gastroenterologist specializing in digestive disorders and liver diseases.",
+    "experience": 18,
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "clinicName": "Digestive Health Clinic"
+  },
+  {
+    "name": "Dr. Olivia Anderson",
+    "description": "Ophthalmologist with expertise in advanced eye surgeries and vision correction.",
+    "experience": 14,
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "clinicName": "Visionary Eye Care"
+  },
+  {
+    "name": "Dr. Benjamin Lee",
+    "description": "Pulmonologist specializing in respiratory conditions and sleep disorders.",
+    "experience": 22,
+    "latitude": 40.7306,
+    "longitude": -73.9352,
+    "clinicName": "Lung Health Institute"
+  }
+]
